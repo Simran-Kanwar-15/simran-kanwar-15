@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Simran-Kanwar-15&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simran-Kanwar-15&theme=tokyonight" alt="GitHub streak" />
 </p>
 
@@ -29,8 +30,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rohit-sharma-codes/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:rohit.sharma.rnks@gmail.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://www.instagram.com/rohiittt.s/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="mailto:rathoresimran567@gmail.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+  <a href="https://www.instagram.com/__exquisite_15/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
 ---
