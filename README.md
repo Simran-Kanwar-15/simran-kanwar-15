@@ -29,7 +29,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rohit-sharma-codes/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/Simran-Kanwar22/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="mailto:rathoresimran567@gmail.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   <a href="https://www.instagram.com/__exquisite_15/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
