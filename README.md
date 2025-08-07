@@ -14,6 +14,9 @@
 - 🍽️ **Zomato-Style Food Ordering Website** – Dynamic red-themed layout for restaurant listings and orders  
 - 🧵 **Gucci-Inspired Fashion Website** – A luxury-themed landing page with country selection and gendered collections  
 - 🧹 **Helping Hands** – A multi-step registration system for maids and recruiters, including detailed forms and user matching
+      [🔗 Live Demo](https://helping-hands-site.netlify.app/)
+
+
 
 
 ### 📊 GitHub Stats
