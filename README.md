@@ -11,7 +11,8 @@
 
 💼 Projects I’ve worked on:
 
-- 🍽️ **Zomato-Style Food Ordering Website** – Dynamic red-themed layout for restaurant listings and orders  
+- 🍽️  **Student Task Manager** - Built a full-stack Student Task Manager enabling users to create, edit, delete, and track tasks with priorities and deadlines, including task filtering, completion status, and a responsive U
+  [🔗 Live Demo](https://student-task-manager-main.onrender.com/)
 - 🧵 **Gucci-Inspired Fashion Website** – A luxury-themed landing page with country selection and gendered collections                                        
                                               [🔗 Live Demo](https://gucci-shopping-clone.netlify.app) 
 - 🧹 **Helping Hands** – A multi-step registration system for maids and recruiters, including detailed forms and user matching
