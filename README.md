@@ -10,8 +10,8 @@
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simran%20Kanwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-kanwar22/)
-[![GitHub](https://img.shields.io/badge/GitHub-simran--kanwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simran-kanwar)
-[![Email](https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/https://github.com/Simran-Kanwar-15/?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simran-kanwar)
+[![Email](https://img.shields.io/badge/https://gmail.com/rathoresimran567@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <br/>
 
@@ -45,6 +45,7 @@ Whether it's debugging at midnight or architecting a system from scratch — I'm
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,6 +53,10 @@ Whether it's debugging at midnight or architecting a system from scratch — I'm
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Figma](https://img.shields.io/badge/Antigravity_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,12 +69,19 @@ Whether it's debugging at midnight or architecting a system from scratch — I'm
 
 ## 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran-kanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-kanwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simran-Kanwar-15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&custom_title=Simran's%20GitHub%20Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kanwar-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simran-Kanwar-15&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
+
+
 
 <div align="center">
 
