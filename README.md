@@ -67,21 +67,17 @@ Whether it's debugging at midnight or architecting a system from scratch — I'm
 
 ---
 
-## 📊 GitHub Stats
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simran-Kanwar-15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&custom_title=Simran's%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simran-Kanwar-15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kanwar-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kanwar-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simran-Kanwar-15&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
-
-
 
 <div align="center">
 
