@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Simran%20Kanwar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Front-End%20Developer%20%7C%20GenAI%20Enthusiast%20%7C%20Creative%20Designer&descAlignY=58&descSize=17"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Simran+Kanwar+👋;Front-End+Web+Developer+💻;Generative+AI+Enthusiast+🤖;Creative+UI%2FUX+Designer+🎨;Always+Learning%2C+Always+Building+🚀;Let's+build+something+impactful+together!" alt="Typing SVG" />
+font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Simran+Kanwar+👋;Front-End+Web+Developer+💻;Generative+AI+Enthusiast+🤖;Creative+UI%2FUX+Designer+🎨;Always+Learning%2C+Always+Building+🚀;Let's+build+something+impactful+together!" alt="Typing SVG" />
 </a>
 
 <br/>
