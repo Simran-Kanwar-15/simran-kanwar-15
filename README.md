@@ -65,28 +65,6 @@ Whether it's debugging at midnight or architecting a system from scratch — I'm
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simran-Kanwar-15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kanwar-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simran-Kanwar-15&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=simran-kanwar&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
